@@ -1,6 +1,9 @@
 # Tic Tac Toe Game
 
-This is a console-based Tic Tac Toe game written in C++. The game offers two difficulty levels for the computer opponent: Easy (random moves) and Hard (strategic moves). The game board is displayed with improved visuals using colors for a more engaging experience. The user plays as 'X', and the computer plays as 'O'.
+
+
+Developed a console-based Tic Tac Toe game in C++ with selectable difficulty levels for the computer opponent. Enhanced the user interface with color-coded visuals and interactive gameplay. Implemented game logic to handle player and computer moves, win detection, and tie conditions. The game is designed for both easy and challenging experiences, making it suitable for a wide range of players.
+The game offers two difficulty levels for the computer opponent: Easy (random moves) and Hard (strategic moves). The game board is displayed with improved visuals using colors for a more engaging experience. The user plays as 'X', and the computer plays as 'O'.
 
 ## Features
 
